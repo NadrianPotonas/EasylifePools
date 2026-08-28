@@ -1,6 +1,6 @@
 <script setup>
 import { RouterLink } from 'vue-router'
-import { equipment, pages } from '../data'
+import { equipment, pages, asset } from '../data'
 </script>
 
 <template>
@@ -26,7 +26,7 @@ import { equipment, pages } from '../data'
         <div class="equipment-grid">
           <article v-for="(item, i) in equipment" :key="item.title" class="equipment-card">
             <div v-if="item.image" class="equipment-image">
-              <img :src="item.image" :alt="item.title" loading="lazy">
+              <img :src="asset(item.image)" :alt="item.title" loading="lazy">
             </div>
             <div class="equipment-card-body">
               <span>{{ String(i + 1).padStart(2, '0') }}</span>

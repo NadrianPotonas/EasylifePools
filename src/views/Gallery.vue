@@ -1,5 +1,5 @@
 <script setup>
-import { gallery, pages } from '../data'
+import { gallery, pages, asset } from '../data'
 </script>
 
 <template>
@@ -22,7 +22,7 @@ import { gallery, pages } from '../data'
             :class="'g' + ((i % 6) + 1)"
           >
             <div class="gallery-image">
-              <img :src="item.image" :alt="item.title" loading="lazy">
+              <img :src="asset(item.image)" :alt="item.title" loading="lazy">
             </div>
             <div class="gallery-caption">
               <strong>{{ item.title }}</strong>

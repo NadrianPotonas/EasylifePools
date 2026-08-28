@@ -1,5 +1,5 @@
 <script setup>
-import { services, pages } from '../data'
+import { services, pages, asset } from '../data'
 </script>
 
 <template>
@@ -25,7 +25,7 @@ import { services, pages } from '../data'
         <div class="service-grid service-card-grid">
           <article v-for="s in services" :key="s.number" class="service-card">
             <div v-if="s.image" class="service-image">
-              <img :src="s.image" :alt="s.title" loading="lazy">
+              <img :src="asset(s.image)" :alt="s.title" loading="lazy">
             </div>
             <div class="service-card-body">
               <span>{{ s.number }}</span>
