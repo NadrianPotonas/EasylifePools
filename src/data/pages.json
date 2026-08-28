@@ -1,0 +1,55 @@
+{
+  "home": {
+    "poolsEyebrow": "OUR POOLS",
+    "poolsTitle": "Find the pool that fits your life.",
+    "poolsLink": "View all pools →",
+    "servicesEyebrow": "OUR SERVICES",
+    "servicesTitle": "More than just a pool.",
+    "servicesDescription": "Everything you need to install, improve and enjoy your pool.",
+    "aboutButton": "Discover EasyLife →"
+  },
+  "pools": {
+    "eyebrow": "FIBREGLASS POOLS",
+    "title": "Choose your perfect pool.",
+    "description": "Explore our range of pool shapes and sizes, then speak to EasyLife about installation and pricing.",
+    "helpEyebrow": "NEED HELP CHOOSING?",
+    "helpTitle": "Not sure which pool is right for you?",
+    "helpText": "Tell us about your space and we'll help you find the right option.",
+    "helpButton": "Talk to EasyLife →"
+  },
+  "services": {
+    "eyebrow": "OUR SERVICES",
+    "title": "Everything your pool needs.",
+    "description": "From the first dig to heating, repairs and safety — EasyLife can help.",
+    "detailEyebrow": "POOL CARE",
+    "detailTitle": "Professional help beyond installation.",
+    "detailText": "Keep your pool looking and working at its best with dependable equipment, repairs, heating, covers and water-feature solutions."
+  },
+  "equipment": {
+    "eyebrow": "POOL EQUIPMENT",
+    "title": "Reliable equipment for a better pool.",
+    "description": "We supply and install equipment and accessories needed to keep your pool clean, safe and enjoyable."
+  },
+  "gallery": {
+    "eyebrow": "OUR WORK",
+    "title": "Real pools. Real projects.",
+    "description": "A visual showcase of the EasyLife style and pool possibilities."
+  },
+  "about": {
+    "eyebrow": "ABOUT EASYLIFE POOLS",
+    "title": "Swimming pools of choice.",
+    "description": "Quality products, professional service and a customer-first approach."
+  },
+  "contact": {
+    "eyebrow": "CONTACT EASYLIFE",
+    "title": "Let's talk about your pool.",
+    "description": "Request a quotation or ask us about pools, installation, equipment and services.",
+    "formEyebrow": "GET IN TOUCH",
+    "formTitle": "Tell us what you're planning.",
+    "formText": "Give us a few details and our team can help you take the next step.",
+    "formLabel": "What can we help you with?",
+    "formPlaceholder": "Tell us about your space, preferred pool or service...",
+    "success": "Thanks! Your enquiry form is working. Connect this submit handler to your existing email backend before publishing.",
+    "submit": "Send enquiry →"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "brand": {
+    "name": "EasyLife",
+    "suffix": "POOLS",
+    "tagline": "Swimming pools of choice.",
+    "logo": "/images/site/logo Easylife SA.jpg"
+  },
+  "contact": {
+    "kzn": "082 084 7877",
+    "gauteng": "063 709 3464",
+    "email": "sales@easylifepools.co.za"
+  },
+  "serviceAreas": [
+    "KZN · South & North Coast",
+    "Gauteng",
+    "Other provinces by quotation"
+  ],
+  "nav": [
+    {
+      "label": "Pools",
+      "path": "/pools"
+    },
+    {
+      "label": "Services",
+      "path": "/services"
+    },
+    {
+      "label": "Equipment",
+      "path": "/equipment"
+    },
+    {
+      "label": "Gallery",
+      "path": "/gallery"
+    },
+    {
+      "label": "About",
+      "path": "/about"
+    }
+  ],
+  "hero": {
+    "eyebrow": "SWIMMING POOLS OF CHOICE",
+    "titleLine1": "Your backyard.",
+    "titleLine2": "Your dream pool.",
+    "description": "High-quality fibreglass swimming pools, expert installation and dependable after-sales service — making pool ownership easy.",
+    "primary": "Explore our pools",
+    "secondary": "Request a quotation",
+    "trust": [
+      "Quality fibreglass",
+      "Full installations",
+      "KZN & Gauteng"
+    ],
+    "image": "/images/site/Hudson deck.jpg"
+  },
+  "home": {
+    "whyEyebrow": "WHY EASYLIFE",
+    "whyTitle": "We make the journey to your dream pool simple.",
+    "whyText": "We offer great, high-quality fibreglass swimming pools with excellent after-sales service. Our mission is to exceed our customers' expectations when building their new dream swimming pool.",
+    "stats": [
+      {
+        "number": "01",
+        "title": "Quality first",
+        "text": "Beautiful fibreglass pools designed for long-lasting enjoyment."
+      },
+      {
+        "number": "02",
+        "title": "Expert service",
+        "text": "From supply and installation to repairs, heating and equipment."
+      },
+      {
+        "number": "03",
+        "title": "Customer focused",
+        "text": "Our dedication is why customers refer us to friends and family."
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "ABOUT EASYLIFE",
+    "title": "Built around quality, service and peace of mind.",
+    "paragraphs": [
+      "EasyLife Pools supplies a broad range of fibreglass swimming pools and supports customers through installation, equipment, repairs and ongoing pool needs.",
+      "We service KZN including the South and North Coast, Gauteng, and can quote for other provinces where installation travel costs apply."
+    ],
+    "image": "/images/site/Hudson deck (1).jpg"
+  },
+  "cta": {
+    "eyebrow": "READY WHEN YOU ARE",
+    "title": "Let's build your dream pool.",
+    "button": "Get a quotation"
+  },
+  "contactPage": {
+    "eyebrow": "CONTACT EASYLIFE",
+    "title": "Let's talk about your pool.",
+    "description": "Request a quotation or ask us about pools, installation, equipment and services."
+  },
+  "footer": {
+    "exploreTitle": "Explore",
+    "contactTitle": "Contact",
+    "areasTitle": "Service areas"
+  }
+}

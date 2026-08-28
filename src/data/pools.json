@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Okavango",
+    "size": "3m × 3m",
+    "depth": "0.80m",
+    "tag": "Compact",
+    "image": "/images/pools/okavango.png"
+  },
+  {
+    "name": "Hot Tub",
+    "size": "2.4m × 2.4m",
+    "depth": "0.85m",
+    "tag": "Spa",
+    "image": "/images/pools/hot-tub.png"
+  },
+  {
+    "name": "Tigris",
+    "size": "3m × 3m",
+    "depth": "0.50m",
+    "tag": "Compact",
+    "image": "/images/pools/tigris.png"
+  },
+  {
+    "name": "Colorado",
+    "size": "3m × 3m",
+    "depth": "0.85m",
+    "tag": "Compact",
+    "image": "/images/pools/colorado.png"
+  },
+  {
+    "name": "Avon",
+    "size": "3m × 3m",
+    "depth": "1.05m",
+    "tag": "Family",
+    "image": "/images/pools/avon.png"
+  },
+  {
+    "name": "Seychelles",
+    "size": "3m × 3m",
+    "depth": "1.2m",
+    "tag": "Family",
+    "image": "/images/pools/seychelles.png"
+  },
+  {
+    "name": "Minnesota",
+    "size": "3m × 3m",
+    "depth": "1.0m",
+    "tag": "Family",
+    "image": "/images/pools/minnesota.png"
+  },
+  {
+    "name": "Manila",
+    "size": "3m × 3m",
+    "depth": "1.3m",
+    "tag": "Family",
+    "image": "/images/pools/manila.png"
+  },
+  {
+    "name": "Nile",
+    "size": "3m × 4m",
+    "depth": "1.0m",
+    "tag": "Compact",
+    "image": "/images/pools/nile.png"
+  },
+  {
+    "name": "Astana",
+    "size": "3m × 3m",
+    "depth": "1.3m",
+    "tag": "Family",
+    "image": "/images/pools/astana.png"
+  },
+  {
+    "name": "Thames",
+    "size": "3m × 4m",
+    "depth": "1.35m",
+    "tag": "Family",
+    "image": "/images/pools/thames.png"
+  },
+  {
+    "name": "Tinto",
+    "size": "3m × 3m",
+    "depth": "0.8m",
+    "tag": "Compact",
+    "image": "/images/pools/tinto.png"
+  },
+  {
+    "name": "Caledon",
+    "size": "3m × 3m",
+    "depth": "0.60m",
+    "tag": "Compact",
+    "image": "/images/pools/caledon.png"
+  },
+  {
+    "name": "Narrow",
+    "size": "2m × 5m",
+    "depth": "1.0m–1.5m",
+    "tag": "Narrow",
+    "image": "/images/pools/narrow.png"
+  },
+  {
+    "name": "Mississippi",
+    "size": "3m × 5m",
+    "depth": "1.0m–1.4m",
+    "tag": "Popular",
+    "image": "/images/pools/mississippi.png"
+  },
+  {
+    "name": "Amazone",
+    "size": "3m × 5m",
+    "depth": "1.0m–1.5m",
+    "tag": "Family",
+    "image": "/images/pools/amazone.png"
+  },
+  {
+    "name": "Hudson",
+    "size": "3m × 5m",
+    "depth": "1.0m–1.4m",
+    "tag": "Popular",
+    "image": "/images/pools/hudson.png"
+  },
+  {
+    "name": "Volga",
+    "size": "3m × 5m",
+    "depth": "1.0m–1.3m",
+    "tag": "Family",
+    "image": "/images/pools/volga.png"
+  },
+  {
+    "name": "Jordan",
+    "size": "3m × 5m",
+    "depth": "1.0m–1.4m",
+    "tag": "Family",
+    "image": "/images/pools/jordan.png"
+  },
+  {
+    "name": "Limpopo",
+    "size": "3.8m × 5.8m",
+    "depth": "1.0m–1.6m",
+    "tag": "Large",
+    "image": "/images/pools/limpopo.png"
+  },
+  {
+    "name": "Kunene",
+    "size": "3m × 5m",
+    "depth": "1.2m–1.5m",
+    "tag": "Family",
+    "image": "/images/pools/kunene.png"
+  },
+  {
+    "name": "Samara",
+    "size": "3m × 5m",
+    "depth": "1.0m–1.5m",
+    "tag": "Family",
+    "image": "/images/pools/samara.png"
+  },
+  {
+    "name": "Rhine",
+    "size": "3m × 5m",
+    "depth": "1.0m–1.6m",
+    "tag": "Large",
+    "image": "/images/pools/rhine.png"
+  },
+  {
+    "name": "Reno",
+    "size": "3m × 6.5m",
+    "depth": "1.0m–1.6m",
+    "tag": "Large",
+    "image": "/images/pools/reno.png"
+  },
+  {
+    "name": "Mira",
+    "size": "3m × 5m",
+    "depth": "1.2m–1.6m",
+    "tag": "Family",
+    "image": "/images/pools/mira.png"
+  },
+  {
+    "name": "Missouri",
+    "size": "3m × 6m",
+    "depth": "1.0m–1.6m",
+    "tag": "Large",
+    "image": "/images/pools/missouri.png"
+  },
+  {
+    "name": "Elbe",
+    "size": "2m × 5m",
+    "depth": "1.2m–1.6m",
+    "tag": "Narrow",
+    "image": "/images/pools/elbe.png"
+  },
+  {
+    "name": "Morocco",
+    "size": "3m × 6m",
+    "depth": "1.0m–1.75m",
+    "tag": "Large",
+    "image": "/images/pools/morocco.png"
+  }
+]

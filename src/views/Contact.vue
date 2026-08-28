@@ -1,0 +1,10 @@
+<script setup>
+import { ref } from 'vue'
+import { useRoute } from 'vue-router'
+import { site, pages } from '../data'
+const route=useRoute()
+const sent=ref(false)
+const form=ref({firstName:'',lastName:'',email:'',phone:'',message:route.query.pool?`I'm interested in the ${route.query.pool} pool.`:''})
+function submit(){sent.value=true}
+</script>
+<template><main class="page"><section class="page-hero"><div class="container"><div class="eyebrow light">{{site.contactPage.eyebrow}}</div><h1>{{site.contactPage.title}}</h1><p>{{site.contactPage.description}}</p></div></section><section class="section quote"><div class="container quote-grid"><div><div class="eyebrow">{{pages.contact.formEyebrow}}</div><h2>{{pages.contact.formTitle}}</h2><p>{{pages.contact.formText}}</p><div class="contact-details"><a :href="`tel:${site.contact.kzn.replaceAll(' ','')}`"><small>KZN</small>{{site.contact.kzn}}</a><a :href="`tel:${site.contact.gauteng.replaceAll(' ','')}`"><small>GAUTENG</small>{{site.contact.gauteng}}</a><a :href="`mailto:${site.contact.email}`"><small>EMAIL</small>{{site.contact.email}}</a></div></div><form class="quote-form" @submit.prevent="submit"><div v-if="sent" class="success">{{pages.contact.success}}</div><template v-else><div class="form-row"><label>First name<input v-model="form.firstName" required></label><label>Last name<input v-model="form.lastName" required></label></div><div class="form-row"><label>Email<input v-model="form.email" type="email" required></label><label>Phone<input v-model="form.phone"></label></div><label>{{pages.contact.formLabel}}<textarea v-model="form.message" rows="6" required placeholder="{{pages.contact.formPlaceholder}}"></textarea></label><button class="button primary" type="submit">{{pages.contact.submit}}</button></template></form></div></section></main></template>

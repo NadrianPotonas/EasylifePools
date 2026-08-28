@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Pool pumps",
+    "description": "Circulation and filtration pumps for efficient pool operation.",
+    "image": "/images/site/pool-pump.png"
+  },
+  {
+    "title": "Pool filters",
+    "description": "Reliable filtration equipment for clean, clear pool water.",
+    "image": "/images/site/sand filters.jpg"
+  },
+  {
+    "title": "Pool equipment",
+    "description": "Cleaning tools and accessories for everyday pool care.",
+    "image": "/images/site/Cleaning brushes.jpg"
+  },
+  {
+    "title": "Weirs & fittings",
+    "description": "Practical pool fittings, weirs and replacement components.",
+    "image": "/images/site/weirs.jpg"
+  },
+  {
+    "title": "Filter covers",
+    "description": "Protective filter boxes and covers for neat installations.",
+    "image": "/images/site/range of filter houses.jpg"
+  },
+  {
+    "title": "Pool heating",
+    "description": "Heating options to extend the swimming season.",
+    "image": "/images/site/Solar heating.jpg"
+  }
+]
